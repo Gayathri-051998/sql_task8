@@ -12,7 +12,7 @@ CREATE TABLE customers (
       address VARCHAR(255)
        );
 
--- orders table
+-- orders  table
 
 CREATE TABLE orders (
       id INT AUTO_INCREMENT PRIMARY KEY,
