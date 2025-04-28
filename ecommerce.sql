@@ -180,7 +180,7 @@ WHERE p.name = 'Product A';
 | jhon |
 +------+
 
-7) Join the orders and customers tables to retrieve the customer's name and order date for each order. 
+7) Join the orders and customers tables to retrieve the customers name and order date for each order. 
 
 SELECT c.name, o.order_date
 FROM orders o
